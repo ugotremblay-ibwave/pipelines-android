@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ugotremblay/Circe/_apis/build/status/ugotremblay-ibwave.pipelines-android?branchName=master)](https://dev.azure.com/ugotremblay/Circe/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
